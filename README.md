@@ -20,7 +20,7 @@ Material Add-on: Code File "__init__.py" herunterladen, in Blender über Edit > 
 ## Lines of Code
 
 Tree Node Add-on: 149 Zeilen  
-L-System: 106 Zeilen
+L-System: 106 Zeilen  
 Material Add-on: 709 Zeilen  
 
 ## Aufteilung innerhalb der Gruppe
