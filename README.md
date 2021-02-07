@@ -24,11 +24,12 @@ L-System: 106 Zeilen
 Material Add-on: 709 Zeilen  
 
 ## Aufteilung innerhalb der Gruppe
-Recherche: Julia Andräß, Daniel Schlegel, Elisabeth Küllmer
-Programmierung des 1. Ansatzes: Daniel Schlegel (Hauptarbeit), Julia Andräß, Elisabeth Küllmer
-Programmierung des 2. Ansatzes: Elisabeth Küllmer (Hauptarbeit), Julia Andräß, Daniel Schlegel
-Programmierung des 3. Ansatzes: Julia Andräß (Hauptarbeit), Daniel Schlegel, Elisabeth Küllmer
-Erstellen der Präsentation: Julia Andräß, Daniel Schlegel, Elisabeth Küllmer
+Recherche: Julia Andräß, Daniel Schlegel, Elisabeth Küllmer  
+Programmierung des 1. Ansatzes: Daniel Schlegel (Hauptarbeit), Julia Andräß, Elisabeth Küllmer  
+Programmierung des 2. Ansatzes: Elisabeth Küllmer (Hauptarbeit), Julia Andräß, Daniel Schlegel  
+Programmierung des 3. Ansatzes: Julia Andräß (Hauptarbeit), Daniel Schlegel, Elisabeth Küllmer  
+Erstellen der Präsentation: Julia Andräß, Daniel Schlegel, Elisabeth Küllmer  
+  
 
 Die Reihenfolge der Namen sagt nichts über den Anteil der Arbeit aus, da wir generell alle sehr viel zusammen an den einzelnen Aufgaben gearbeitet haben und uns gegenseitig geholfen haben und sich im Nachhinein eine genaue Aufteilung der Aufgaben nicht darstellen lässt.
 
