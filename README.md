@@ -13,15 +13,15 @@ Die Idee war es ein Blender Add-on mittels Python Code zu erstellen, bei dem der
 → Zudem sollten dem Baum verschiedene Materialien hinzugefügt werden können.  
 
 ## Inbetriebnahme / Anwendung
-Tree Node Add-on: Code File "treeMainPanel.py" herunterladen,  in Blender über Edit > Preferences > Addons > Install > Heruntergeladenes File auswählen
-L-System: Code in Blender in den Python Code Editor reinkopieren oder im Python Code Editor öffnen.
-Material Add-on: Code File "__init__.py" herunterladen, in Blender über Edit > Preferences > Addons > Install > File auswählen 
+**Tree Node Add-on:** Code File "treeMainPanel.py" herunterladen,  in Blender über Edit > Preferences > Addons > Install > Heruntergeladenes File auswählen
+**L-System:** Code in Blender in den Python Code Editor reinkopieren oder im Python Code Editor öffnen.
+**Material Add-on:** Code File "__init__.py" herunterladen, in Blender über Edit > Preferences > Addons > Install > File auswählen 
 
 ## Lines of Code
 
-Tree Node Add-on: 149 Zeilen  
-L-System: 106 Zeilen  
-Material Add-on: 709 Zeilen  
+**Tree Node Add-on:** 149 Zeilen  
+**L-System:** 106 Zeilen  
+**Material Add-on:** 709 Zeilen  
 
 ## Aufteilung innerhalb der Gruppe
 **Recherche:** Julia Andräß, Daniel Schlegel, Elisabeth Küllmer  
