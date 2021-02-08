@@ -21,7 +21,7 @@ Die Idee war es ein Blender Add-on mittels Python Code zu erstellen, bei dem der
 
 **Tree Node Add-on:** 149 Zeilen  
 **L-System:** 106 Zeilen  
-**Material Add-on:** 709 Zeilen  
+**Material Add-on:** 578 Zeilen  
 
 ## Aufteilung innerhalb der Gruppe
 **Recherche:** Julia Andräß, Daniel Schlegel, Elisabeth Küllmer  
