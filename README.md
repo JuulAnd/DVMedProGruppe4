@@ -15,7 +15,7 @@ Die Idee war es ein Blender Add-on mittels Python Code zu erstellen, bei dem der
 ## Inbetriebnahme / Anwendung
 **Tree Node Add-on:** Code File "treeMainPanel.py" herunterladen,  in Blender über Edit > Preferences > Addons > Install > Heruntergeladenes File auswählen  
 **L-System:** Code in Blender in den Python Code Editor reinkopieren oder im Python Code Editor öffnen.  
-**Material Add-on:** Code File "__init__.py" herunterladen, in Blender über Edit > Preferences > Addons > Install > File auswählen   
+**Material Add-on:** Aus Ordner "tree_materials" Code File "tree_materials.py" herunterladen, in Blender über Edit > Preferences > Addons > Install > File auswählen , für die Rindentextur den Ordner "Images" in den "addons"-Ordner Ihrer Blender Installation legen.   
 
 ## Lines of Code
 
